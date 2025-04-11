@@ -6,6 +6,8 @@ I'm **Edson Ribeiro**, a passionate **Backend Developer** but I play a little wi
 
 I'm a Software Engineer at **Nubank** in Brazil.
 
+[Link](https://edribeiro1.github.io/) to some projects.
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Angular
